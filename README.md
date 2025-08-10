@@ -12,4 +12,4 @@ A tarefa consiste em realizar uma análise exploratória de bases de dados para 
 
 * **Apresentação em Slides:** Uma apresentação com análise e conclusões.
 * **Queries SQL:** Um banco de dados em SQL contendo todas as queries utilizadas.
-* **Base em Excel:** Uma base no Excel, que foi tratada e estruturada de todos os dados utilizados.
+* **Base em Excel:** Uma base unificada no Excel, que foi tratada e estruturada.
