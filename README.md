@@ -1,4 +1,4 @@
-# README - Case da Semana: Marvel vs. DC
+# README - Case: Marvel vs. DC
 
 ## Objetivo
 
